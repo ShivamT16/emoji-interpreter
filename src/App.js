@@ -4,10 +4,19 @@ import "./styles.css";
 const emojiDictonary = {
   "😃": "Happy",
   "💁": "What",
+  "😡": "Angry",
   "👌": "Wonderfull",
   "🎍": "Vegeies",
   "😍": "Lovely",
-  "📙": "Book"
+  "🤭": "Shy",
+  "🥺": "Emotional",
+  "📙": "Book",
+  "😈": "Demon",
+  "😴": "Sleeping",
+  "🤝🏻": "Handshake",
+  "🌹": "Rose",
+  "🔥": "Lit",
+  "💦": "Water-droplets",
 };
 
 var emojiknown = Object.keys(emojiDictonary);
